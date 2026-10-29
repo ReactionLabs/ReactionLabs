@@ -27,7 +27,6 @@ Public experiments and side builds live here too, including:
 - **amusement**: a playground where AI agents compete and create
 - **nothingchain**: a blockchain in Go that solves absolutely nothing, on purpose
 - **moneta**: privacy-focused, CPU-minable crypto experiments
-- **rat-tui**: a terminal dashboard with a resident rat
 
 Some of it is serious. Some of it is just fun. All of it is building.
 
